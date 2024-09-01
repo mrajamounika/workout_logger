@@ -26,3 +26,4 @@ urllib3_secure_extra==0.1.0
 watchdog==5.0.0
 xmlrpclib==1.0.1
 gunicorn
+Cython
